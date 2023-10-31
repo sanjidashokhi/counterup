@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.main{
+    padding: 300px 0;
+    background: #33033d; 
+}
+.counterpart{
+    display: flex;
+
+}
+.one{
+    width: 25%;
+    margin-right: 20px;
+    background: #f4f4f4;  
+    padding: 10px; 
+    text-align: center;
+    border-radius: 50px;
+    color: #33033d;
+}
